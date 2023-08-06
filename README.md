@@ -3,6 +3,14 @@
 Run `npm install`
 Run `npm run start`
 
+Create .env in root directory and add following values
+
+ContractAddress="0xf4DA7e38cDBDd2699BFa756C59140d7806459207"
+PersonalAddress=""
+PrivateKey=""
+INFURA_URL_HTTP="Sepolia https url on Infura"
+INFURA_URL_WS="Sepolia ws url on Infura"
+
 # APIs
 
 Add Transaction
